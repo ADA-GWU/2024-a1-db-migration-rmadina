@@ -19,7 +19,7 @@ This comprehensive guide is for the POM Database Migration Assignment, detailing
 
 ** Database Connection**: Ensure you can connect to your PostgreSQL instance. Typically, you can use the `psql` command-line tool:
    ```
-   psql -U username -d databasename
+   psql -U madinarustamova -d pom_db_migration
    ```
 
 ** Migration Process
