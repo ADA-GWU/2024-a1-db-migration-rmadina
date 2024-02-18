@@ -49,5 +49,3 @@ This document serves as a comprehensive guide for performing database migrations
 - Ensure all database credentials and URLs are correct.
 - Verify the PostgreSQL JDBC driver is properly added to the project.
 - Check console output for specific error messages and adjust SQL commands as necessary.
-
-For further assistance, please refer to the project's issue tracker or contact support.
